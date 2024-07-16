@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Darshan Banait</h1>
-<h3 align="center">A passionate student learning various computer science concepts from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshanbanait&label=Profile%20views&color=0e75b6&style=flat" alt="darshanbanait" /> </p>
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Deep learning**
 
 - 📫 How to reach me **darshanbanait09@gmail.com**
 
