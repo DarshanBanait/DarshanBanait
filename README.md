@@ -1,15 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Darshan Banait
 ======================================================================================================================================
 
-Student Developer
+Backend Developer
 -----------------
 
-Greetings, fellow tech adventurers! I'm Darshan, a digital wizard weaving spells of logic and creativity. When I'm not busy orchestrating bits and bytes into symphonies, you might find me deep in thought—or possibly just catching some Z's, dreaming up the next big thing.
+I am a seasoned software developer with a focus on backend development and system architecture. My primary expertise lies in Django and Django Rest Framework, where I design and implement efficient, scalable backend systems.
 
 * 🌍  I'm based in Pune
-* 🖥️  See my portfolio at [Portfolio](http://darshanbanait.github.io/Portfolio/)
 * ✉️  You can contact me at [darshanbanait31@gmail.com](mailto:darshanbanait31@gmail.com)
-* 🧠  I'm learning Django
+* 🧠  I'm learning Data Science
 
 ### Skills
 
